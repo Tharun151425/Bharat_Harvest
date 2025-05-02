@@ -1,0 +1,21 @@
+names:
+- beans
+- brinjal
+- cabbage
+- capsicum
+- carrot
+- cauliflower
+- chilli
+- onion
+- potato
+- tomato
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: mini-project-qd9pd
+  url: https://universe.roboflow.com/srihitha-4xrye/mini-project-qd9pd/dataset/4
+  version: 4
+  workspace: srihitha-4xrye
+test: ../test/images
+train: ../train/images
+val: ../valid/images
